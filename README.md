@@ -27,7 +27,7 @@ Before running this project, ensure you have the following installed:
 
 **1. Clone the repository and set up a virtual environment:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/HashirAhmadKamboh/Spark-Twitter-Sentiment-Analysis.git
 cd PDC_Project
 python -m venv spark-env
 source spark-env/bin/activate
